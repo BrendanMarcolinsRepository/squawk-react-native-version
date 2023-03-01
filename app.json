@@ -4,12 +4,13 @@
     "slug": "squawk-react",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo/logo_1.png",
     "userInterfaceStyle": "light",
+    "backgroundColor" : "#EBFEEA",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/logo/logo_1.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#EBFEEA"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -19,8 +20,8 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "foregroundImage": "./assets/logo/logo_1.png",
+        "backgroundColor": "#EBFEEA"
       }
     },
     "web": {
